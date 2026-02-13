@@ -10,7 +10,7 @@ public class DivisionHandling {
 			System.out.println(div);
 		}
 		catch(ArithmeticException e) {
-    			System.out.println("Cannot divide by zero");
+    			System.out.println("Divide by zero error");
 		}
 
         // TODO: Read two integers a and b
